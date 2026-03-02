@@ -1,3 +1,9 @@
+.averia-sans-libre-light {
+  font-family: "Averia Sans Libre", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
 body{
     background-color: rgb(255, 181, 195);
 }
@@ -7,4 +13,107 @@ body{
     height: 600px;
     width: 400px;
     border-radius: 20px;
+    position:absolute;
+    left: 540px;
+    top: 100px;
+}
+
+.ac{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 560px;
+    position: absolute;
+    top: 250px;
+}
+
+.one{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 560px;
+    position: absolute;
+    top: 350px;
+}
+
+.two{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 660px;
+    position: absolute;
+    top: 350px;
+}
+
+.three{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 760px;
+    position: absolute;
+    top: 350px;
+}
+
+.four{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 560px;
+    position: absolute;
+    top: 450px;
+}
+
+.five{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 660px;
+    position: absolute;
+    top: 450px;
+}
+
+.six{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 760px;
+    position: absolute;
+    top: 450px;
+}
+
+.seven{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 560px;
+    position: absolute;
+    top: 550px;
+}
+
+.eight{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 660px;
+    position: absolute;
+    top: 550px;
+}
+
+.nine{
+    background-color:white;
+    height:75px;
+    width:75px;
+    border-radius: 50px;
+    left: 760px;
+    position: absolute;
+    top: 550px;
 }
