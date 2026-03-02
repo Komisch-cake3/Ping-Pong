@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 181, 195);
+}
+
+.base{
+    background-color: rgb(255, 226, 231);
+    height: 600px;
+    width: 400px;
+    border-radius: 20px;
+}
